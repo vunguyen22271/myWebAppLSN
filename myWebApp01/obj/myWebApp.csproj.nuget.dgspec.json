@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vnguyen233\\Downloads\\DXC\\Learn\\AZ-400 Designing and Implementing Microsoft DevOps Solutions\\Learn AZ-400\\Module_2-Source_Control\\myWebAppSln\\myWebApp01\\myWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vnguyen233\\Downloads\\DXC\\Learn\\AZ-400 Designing and Implementing Microsoft DevOps Solutions\\Learn AZ-400\\Module_2-Source_Control\\myWebAppSln\\myWebApp01\\myWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vnguyen233\\Downloads\\DXC\\Learn\\AZ-400 Designing and Implementing Microsoft DevOps Solutions\\Learn AZ-400\\Module_2-Source_Control\\myWebAppSln\\myWebApp01\\myWebApp.csproj",
+        "projectName": "myWebApp",
+        "projectPath": "C:\\Users\\vnguyen233\\Downloads\\DXC\\Learn\\AZ-400 Designing and Implementing Microsoft DevOps Solutions\\Learn AZ-400\\Module_2-Source_Control\\myWebAppSln\\myWebApp01\\myWebApp.csproj",
+        "packagesPath": "C:\\Users\\vnguyen233\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vnguyen233\\Downloads\\DXC\\Learn\\AZ-400 Designing and Implementing Microsoft DevOps Solutions\\Learn AZ-400\\Module_2-Source_Control\\myWebAppSln\\myWebApp01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vnguyen233\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\myWebApp.staticwebassets.runtime.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\myWebApp.exe
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\myWebApp.deps.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\myWebApp.runtimeconfig.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\bin\Debug\net7.0\myWebApp.pdb
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.csproj.AssemblyReference.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.AssemblyInfo.cs
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.csproj.CoreCompileInputs.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets\msbuild.myWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\scopedcss\bundle\myWebApp.styles.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\scopedcss\projectbundle\myWebApp.bundle.scp.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\refint\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.pdb
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\myWebApp.genruntimeconfig.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn_AZ-400_v0.1\myWebApp\obj\Debug\net7.0\ref\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\appsettings.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\myWebApp.staticwebassets.runtime.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\myWebApp.exe
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\myWebApp.deps.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\myWebApp.runtimeconfig.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\bin\Debug\net7.0\myWebApp.pdb
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.csproj.AssemblyReference.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.AssemblyInfo.cs
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.csproj.CoreCompileInputs.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.myWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.build.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\scopedcss\bundle\myWebApp.styles.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\scopedcss\projectbundle\myWebApp.bundle.scp.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\refint\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.pdb
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\myWebApp.genruntimeconfig.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebApp01\obj\Debug\net7.0\ref\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\appsettings.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\myWebApp.staticwebassets.runtime.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\myWebApp.exe
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\myWebApp.deps.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\myWebApp.runtimeconfig.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\bin\Debug\net7.0\myWebApp.pdb
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.csproj.AssemblyReference.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.AssemblyInfo.cs
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.csproj.CoreCompileInputs.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.myWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.build.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.myWebApp.props
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\scopedcss\bundle\myWebApp.styles.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\scopedcss\projectbundle\myWebApp.bundle.scp.css
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\refint\myWebApp.dll
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.pdb
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\myWebApp.genruntimeconfig.cache
+C:\Users\vnguyen233\Downloads\DXC\Learn\AZ-400 Designing and Implementing Microsoft DevOps Solutions\Learn AZ-400\Module_2-Source_Control\myWebAppSln\myWebApp01\obj\Debug\net7.0\ref\myWebApp.dll
