@@ -30,11 +30,11 @@ stages:
       displayName: Build
       inputs:
         command: 'build'
-        projects: '**/myWebApp.csproj'
+        projects: '*/myWebApp01/myWebApp.csproj'
         arguments: '--configuration $(buildConfiguration)'
     - task: DotNetCoreCLI@2
       displayName: Test
       inputs:
         command: 'test'
-        projects: '**/myWebTest.csproj'
+        projects: '*/myWebTest/myWebTest.csproj'
         arguments: '--configuration $(buildConfiguration)'
