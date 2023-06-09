@@ -10,4 +10,8 @@
     <Content Include="Modules\Functions.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Build" Version="17.0.0" />
+  </ItemGroup>
+
 </Project>
