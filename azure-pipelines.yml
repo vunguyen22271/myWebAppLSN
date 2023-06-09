@@ -30,11 +30,21 @@ stages:
       displayName: Build
       inputs:
         command: 'build'
-        projects: '*/myWebApp01/myWebApp.csproj'
+        projects: '**/*.csproj'
         arguments: '--configuration $(buildConfiguration)'
+    - task: DotNetCoreCLI@2
+      displayName: Restore
+      inputs:
+        command: 'restore'
+        projects: '**/*.csproj'
     - task: DotNetCoreCLI@2
       displayName: Test
       inputs:
         command: 'test'
         projects: '*/myWebTest/myWebTest.csproj'
-        arguments: '--configuration $(buildConfiguration)'
+        arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=./MyCoverage/'
+        publishTestResults: true
+    - task: PublishCodeCoverageResults@2
+      inputs:
+        # codeCoverageTool: 'Cobertura'
+        summaryFileLocation: '$(Build.SourcesDirectory)/**/Mycoverage/coverage.cobertura.xml'
